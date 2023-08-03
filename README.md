@@ -12,16 +12,21 @@ Package Contents:
 1. [DeepLearningModel/AlphabetSoupCharity.ipynb](https://github.com/shriparna/deep-learning-challenge/blob/main/DeepLearningModel/AlphabetSoupCharity.ipynb) Main Google Colab file to be evaluated. Need to run on Google Collab
 
 2. [DeepLearningModel/AlphabetSoupCharity.h5](https://github.com/shriparna/deep-learning-challenge/blob/main/DeepLearningModel/AlphabetSoupCharity.h5) HDF5 file output from #1 above to be evaluated
-    #### Note: File may be too large to view
+    ##### Note: File may be too large to view
 
 3. [DeepLearningModel/AlphabetSoupCharity_Loss.png](https://github.com/shriparna/deep-learning-challenge/blob/main/DeepLearningModel/AlphabetSoupCharity_Loss.png) Loss plot for #1 above
 
 4. [DeepLearningModel/AlphabetSoupCharity_Accuracy.png](https://github.com/shriparna/deep-learning-challenge/blob/main/DeepLearningModel/AlphabetSoupCharity_Accuracy.png) Loss plot for #1 above
 
-3. [DeepLearningModel/AlphabetSoupCharity_Optimization.ipynb](https://github.com/shriparna/deep-learning-challenge/blob/main/DeepLearningModel/AlphabetSoupCharity_Optimization.ipynb) Main Google Colab file with optimized model to be evaluated. Need to run on Google Collab
+5. [DeepLearningModel/AlphabetSoupCharity_Optimization.ipynb](https://github.com/shriparna/deep-learning-challenge/blob/main/DeepLearningModel/AlphabetSoupCharity_Optimization.ipynb) Main Google Colab file with optimized model to be evaluated. Need to run on Google Collab
 
-4. [DeepLearningModel/AlphabetSoupCharity_Optimization.h5](https://github.com/shriparna/deep-learning-challenge/blob/main/DeepLearningModel/AlphabetSoupCharity_Optimization.h5) HDF5 file output after optimization from #3 above to be evaluated
-    #### Note: File may be too large to view
+6. [DeepLearningModel/AlphabetSoupCharity_Optimization.h5](https://github.com/shriparna/deep-learning-challenge/blob/main/DeepLearningModel/AlphabetSoupCharity_Optimization.h5) HDF5 file output after optimization from #3 above to be evaluated
+    ##### Note: File may be too large to view
+
+7. [DeepLearningModel/AlphabetSoupCharity_Optimization_Loss.png](https://github.com/shriparna/deep-learning-challenge/blob/main/DeepLearningModel/AlphabetSoupCharity_Optimization_Loss.png) Loss plot for #5 above
+
+8. [DeepLearningModel/AlphabetSoupCharity_Optimization_Accuracy.png](https://github.com/shriparna/deep-learning-challenge/blob/main/DeepLearningModel/AlphabetSoupCharity_Optimization_Accuracy.png) Loss plot for #5 above
+
 
 <hr>
 
@@ -70,7 +75,11 @@ Package Contents:
 
   * Were you able to achieve the target model performance?
 
-    No, but came close
+    No, but came close. See the below plots for Accuracy
+
+    ![AlphabetSoupCharity_Optimization_Accuracy](https://github.com/shriparna/deep-learning-challenge/assets/71340748/be6609ae-87b3-4eb1-819f-3769502229cb)
+
+    ![AlphabetSoupCharity_Accuracy](https://github.com/shriparna/deep-learning-challenge/assets/71340748/469bc0e3-3dbb-4cca-af35-3a4fdb341dbe)
 
   * What steps did you take in your attempts to increase model performance?
 
