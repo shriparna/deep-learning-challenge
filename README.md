@@ -39,11 +39,13 @@ Package Contents:
 - Execute from top to bottom
 - Verify the evaluation results (Loss and Accuracy)
 - Evaluate file AlphabetSoupCharity.h5 which is generated from above file
+- Evaluate the Loss and Accuracy plots
 - Use File > New Notebook > Upload Notebook
 - Upload file AlphabetSoupCharity_Optimization.ipynb
 - Execute from top to bottom
 - Verify the evaluation results (Loss and Accuracy)
 - Evaluate file AlphabetSoupCharity_Optimization.h5 which is generated from above file
+- Evaluate the Loss and Accuracy plots
 - The report is part of this document below:
 
 <hr>
